@@ -1,0 +1,35 @@
+Python
+
+- Interpreted Language
+- Dynamically Typed
+  - No fixed data type
+  - No primitive data types
+
+IDLE - Python Shell
+
+VS Code - Code Editor
+Pycharm - IDE - Integrated Development Environment
+
+File Saving Naming Convention
+- do not use space in file names
+- do not use python word or any pre-defined python keyword or function
+
+- Use camelcase or underscore
+
+my_first_program.py
+myFirstProgram.py
+
+Variable Naming Convention
+x = 10
+
+- variable name can only start with either alphabet or underscore
+- variable name cannot include any special character except underscore
+- spaces are not allowed in variable names
+- variable names cannot be reserved keyword of python
+
+
+
+
+
+
+
