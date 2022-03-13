@@ -1,0 +1,25 @@
+Operators
+- Arithmetic Operators
+  +, -, /, *, //, **, %
+- Comparison Operator
+  ==, >, <, >=, <=, !=
+- Logical Operator
+  and, or, not
+
+
+Prime numbers in a range
+Fibonacci Series - 0,1,1,2,3,5,8,13,21...
+Print prime factors of a number
+  eg : i/p = 18
+       o/p = 2,3,3
+       i/p = 80
+       o/p = 2,2,2,2,5
+Print LCM and GCD/HCF of 2 numbers
+
+
+
+
+
+
+
+
