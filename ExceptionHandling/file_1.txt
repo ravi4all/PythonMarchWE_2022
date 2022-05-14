@@ -1,0 +1,15 @@
+Map
+Filter
+Reduce : HomeWork
+Lambda Expressions - Anonymous Functions
+- one time use
+- immediately get destroyed
+- non-reusable functions
+- when we have to write or return one single line of code in function
+
+Exception Handling
+
+
+
+
+
