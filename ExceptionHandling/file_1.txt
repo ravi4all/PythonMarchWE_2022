@@ -8,8 +8,8 @@ Lambda Expressions - Anonymous Functions
 - when we have to write or return one single line of code in function
 
 Exception Handling
-
-
-
-
-
+- Abnormal Conditions
+try	- logic
+except	- it excepts the exception and handles them
+else	- it executes when try successfully executes
+finally	- it will always execute

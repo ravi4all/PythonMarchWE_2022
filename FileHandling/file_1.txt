@@ -1,0 +1,34 @@
+try
+except
+else
+finally
+raise
+===================
+2 types of exception
+- Pre-defined
+- User-defined
+  - create our own exception...
+  - we use raise keyword
+====================
+File Handling
+- Read
+- Write
+2 types of file
+- text
+- binary
+Modes to handle the files
+read text file - r / rt
+read binary file - rb
+write text file - w / wt / x
+write binary file - wb / xb
+append in text file - a
+append in binary file - ab
+=====================
+Steps to perform file handling
+1. Open file and also tell the mode in which you are opening the file
+   Syntax : file = open('file_name.extension', 'mode'(default is 'r'))
+2. Read/Write
+  Syntax : file.read() / file.write("Data to write in file...")
+3. Close file
+  Syntax : file.close()
+
